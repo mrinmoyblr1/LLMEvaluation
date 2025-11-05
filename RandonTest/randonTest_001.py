@@ -12,3 +12,17 @@ fruits = ["apple", "banana", "cherry", "date", "elderberry"]
 
 print(f"First fruit: {fruits[0]}")
 print(f"Last fruit: {fruits[4]}")
+
+
+print(fruits[-1])  # It will print the last one
+print(fruits[-2])
+print(fruits[::-1]) # It will reverse the list
+
+print(fruits[::-2])
+print(fruits[::-1][::-1])
+
+
+
+
+
+
