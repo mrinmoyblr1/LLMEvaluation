@@ -13,10 +13,5 @@ def test_context_precision():
 # Create objects of the class for the specified matrix
 context_precision = LLMContextPrecisionWithoutReference()
 
-
-#DD
-#FF
-
 # Feed Data
 # Get the Score
-
